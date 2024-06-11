@@ -14,7 +14,7 @@
 	<name>springboot-webflux-application</name>
 	<description>Demo project for Spring Boot and WebFlux</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
